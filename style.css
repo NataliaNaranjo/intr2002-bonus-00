@@ -1,0 +1,32 @@
+body {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fondo{
+    background-color: rgb(230, 243, 245);
+  }
+  .nav-link{
+      color: black;
+  }
+  .nav-link:hover{
+      color: blueviolet;
+  }
+  
+  section .social-nav .col-1{
+      font-size: 25px;
+  }
+  
+  .hero{
+      font-size: 72px;
+      font-weight: 700;
+      font-style: normal;
+  }
+  
+  .content{
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
