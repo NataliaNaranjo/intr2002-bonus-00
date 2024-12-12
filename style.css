@@ -5,18 +5,12 @@ body {
   font-style: normal;
 }
 
-img container{
+img .container{
   width: 100%;
 }
 
 .fondo{
   background-color: F5F5F5;
-}
-.nav-link{
-    color: black;
-}
-.nav-link:hover{
-    color: blueviolet;
 }
 .btn-primary{
   background-color: blueviolet;
@@ -27,12 +21,9 @@ img container{
   border: none;
 }
 
-section .social-nav .col-1{
-    font-size: 25px;
-}
-
 i{
   color: blueviolet;
+    font-size: 40px;
 }
 
 i:hover{
@@ -124,3 +115,7 @@ i:hover{
 .btn-4:hover {
       background-color: #a4a3a3;
     }
+
+h1{
+  padding-bottom: 5%;
+}
