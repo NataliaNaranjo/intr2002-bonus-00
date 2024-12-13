@@ -12,6 +12,18 @@ img .container{
 .fondo{
   background-color: F5F5F5;
 }
+
+.nav-link{
+  color: black;
+}
+.nav-link:hover{
+  color: blueviolet;
+}
+
+.btn{
+  margin-top: 24px;
+}
+
 .btn-primary{
   background-color: blueviolet;
   border: none;
@@ -118,4 +130,8 @@ i:hover{
 
 h1{
   padding-bottom: 5%;
+}
+
+.title{
+  margin: 16px;
 }
